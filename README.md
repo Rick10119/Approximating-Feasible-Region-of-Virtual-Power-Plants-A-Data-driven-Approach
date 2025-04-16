@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/dfd7dc3a-b051-41a1-8bb6-4b4434826172)
 
+cite: Lyu, Ruike, Hongye Guo, and Qixin Chen. "Approximating Energy-Regulation Feasible Regions of Virtual Power Plants: A Data-Driven Inverse Optimization Approach." 2024 IEEE Power & Energy Society General Meeting (PESGM). IEEE, 2024.
+
 # Approximating-Feasible-Region-of-Virtual-Power-Plants-A-Data-driven-Approach
 This repository contains data and code related to my new research project on approximating the Energy-Regulation Feasible Region of Virtual Power Plants using a Data-driven Inverse Optimization Approach.
 
