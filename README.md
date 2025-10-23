@@ -24,6 +24,10 @@ Please note that this code repository represents an independent research project
 
 这个代码库包含了我新研究项目的数据和代码，主题是利用数据驱动的逆向优化方法来近似虚拟电厂的能量-调频可行域。
 
+本文工作的改进版为Data-Driven Dimension Reduction for Industrial Load Modeling Using Inverse Optimization
+
+代码库：https://github.com/Rick10119/Data-Driven-Dimension-Reduction
+
 #### 概述：
 
 - `data_prepare` 文件夹包含的代码利用了PJM电价数据和基于文献的电动汽车车队参与能量和调频市场的投标模型，来模拟4000辆电动汽车在不同日期下的最优投标结果。生成的数据存放在 `data_set` 文件夹供参考。
